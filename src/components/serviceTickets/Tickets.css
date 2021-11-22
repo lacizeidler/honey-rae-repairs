@@ -1,0 +1,10 @@
+.emergency {
+    background-color: rgba(255, 0, 0, 0.533);
+}
+.ticket {
+    padding: 3% 1%;
+}
+
+.notEmergency {
+    background-color: rgba(255, 182, 193, 0.402);
+}
